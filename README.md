@@ -1,16 +1,98 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MannanJain1290/MannanJain1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mannan Jain  
 
-Here are some ideas to get you started:
+### Software Developer | B.Tech CSE Student | Backend & Cloud Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Building practical software, exploring modern backend technologies, and continuously improving my problem-solving skills.
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/mannan-jain-683229215/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:jainmannan8123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.instagram.com/mannan.j15/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science student based in New Delhi, India
+- 💻 Interested in Backend Development, Cloud Computing, DevOps, and Blockchain
+- 🌱 Currently improving my Data Structures & Algorithms and software development skills
+- 🚀 Building practical projects and exploring scalable backend technologies
+- ☁️ Learning more about modern cloud infrastructure and deployment
+- 🎯 Working towards becoming a strong Software Development Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp" alt="Programming Languages" />
+</p>
+
+### Web & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs" alt="Web and Backend Technologies" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Databases" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel,vscode" alt="Tools and Technologies" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+    src="https://github-readme-stats.vercel.app/api?username=MannanJain1290&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+/>
+
+<br><br>
+
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannanJain1290&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+/>
+
+</div>
+/>
+<img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MannanJain1290&theme=tokyonight&hide_border=true"
+/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MannanJain1290&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannanJain1290&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+</div>
