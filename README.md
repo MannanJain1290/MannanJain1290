@@ -67,32 +67,36 @@ Building practical software, exploring modern backend technologies, and continuo
 
 <div align="center">
 
-<img
-    src="https://github-readme-stats.vercel.app/api?username=MannanJain1290&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=MannanJain1290&show_icons=true&theme=tokyonight&hide_border=true" />
+<br></br>
 
-<br><br>
-
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannanJain1290&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-/>
-
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MannanJain1290&layout=compact&theme=tokyonight&hide_border=true" />
+<br></br>
 </div>
-/>
-<img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MannanJain1290&theme=tokyonight&hide_border=true"
-/>
+
+<div align="center">
+</div>
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MannanJain1290&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannanJain1290&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img
+  src="https://streak-stats.demolab.com?user=MannanJain1290&theme=tokyonight&hide_border=true"
+  alt="Mannan's GitHub Streak"
+/>
 
 </div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MannanJain1290&theme=tokyo-night&hide_border=true"
+  alt="Mannan's Contribution Graph"
+/>
 
 </div>
